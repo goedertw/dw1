@@ -1,0 +1,10 @@
+Tafel
+Hond
+Boek
+Auto
+Boom
+Muur
+Lamp
+Fiets
+Rivier
+Stad
